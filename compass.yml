@@ -1,0 +1,16 @@
+name: awesome-claude-code-toolkit
+id: ari:cloud:compass:6a5035f9-5067-4fc8-a1cd-e132f8157385:component/e12b574d-411d-46d7-86a9-791861f57737/787d147e-3488-4b26-8eba-8a60ec9c9e68
+description: The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/PcnaidInc/awesome-claude-code-toolkit
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
