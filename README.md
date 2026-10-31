@@ -1,6 +1,6 @@
 # Claude Code Toolkit
 
-**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 16 MCP configs, 26 companion apps, 95 ecosystem entries, and more.**
+**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 16 MCP configs, 43 companion apps, 95 ecosystem entries, and more.**
 
 <p align="center">
   <a href="https://trendshift.io/repositories/21839" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21839" alt="rohitg00%2Fawesome-claude-code-toolkit | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -1003,7 +1003,7 @@ claude-code-toolkit/               850+ files
     scripts/                       19 Node.js scripts
   rules/                           15 coding rules
   templates/claude-md/             7 CLAUDE.md templates
-  mcp-configs/                     8 server configurations
+  mcp-configs/                     16 server configurations
   contexts/                        5 context modes
   examples/                        3 walkthrough examples
   setup/                           Interactive installer
